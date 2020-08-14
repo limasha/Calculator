@@ -1,0 +1,18 @@
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_1\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_1\Task_1\bin\Debug\Task_1.exe
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_1\Task_1\bin\Debug\Task_1.pdb
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_1\Task_1\obj\Debug\Task_1.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_1\Task_1\obj\Debug\Task_1.Form1.resources
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_1\Task_1\obj\Debug\Task_1.Properties.Resources.resources
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_1\Task_1\obj\Debug\Task_1.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_1\Task_1\obj\Debug\Task_1.exe
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_1\Task_1\obj\Debug\Task_1.pdb
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\21003995 (P.L.A Perera)\Task_1\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\21003995 (P.L.A Perera)\Task_1\Task_1\bin\Debug\Task_1.exe
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\21003995 (P.L.A Perera)\Task_1\Task_1\bin\Debug\Task_1.pdb
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\21003995 (P.L.A Perera)\Task_1\Task_1\obj\Debug\Task_1.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\21003995 (P.L.A Perera)\Task_1\Task_1\obj\Debug\Task_1.Form1.resources
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\21003995 (P.L.A Perera)\Task_1\Task_1\obj\Debug\Task_1.Properties.Resources.resources
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\21003995 (P.L.A Perera)\Task_1\Task_1\obj\Debug\Task_1.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\21003995 (P.L.A Perera)\Task_1\Task_1\obj\Debug\Task_1.exe
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\21003995 (P.L.A Perera)\Task_1\Task_1\obj\Debug\Task_1.pdb
